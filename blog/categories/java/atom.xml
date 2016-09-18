@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Java | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Java | 蜗牛]]></title>
   <link href="http://leehaoo.github.io/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://leehaoo.github.io/"/>
-  <updated>2016-09-18T21:50:26+08:00</updated>
+  <updated>2016-09-18T22:29:20+08:00</updated>
   <id>http://leehaoo.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[LeeHao]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
