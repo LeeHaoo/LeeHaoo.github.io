@@ -1,0 +1,5 @@
+<ul class="main-navigation">
+  <li><a href="{{ root_url }}/" style="font-width=900">我的主页</a></li>
+  <li><a href="{{ root_url }}/blog/archives">发表的博客</a></li>
+  <li><a href="{{ root_url }}/aboutme">AboutMe</a></li>
+</ul>
