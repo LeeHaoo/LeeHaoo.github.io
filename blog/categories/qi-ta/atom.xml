@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 其他 | LeeHao 的技术总结]]></title>
   <link href="http://leehaoo.github.io/blog/categories/qi-ta/atom.xml" rel="self"/>
   <link href="http://leehaoo.github.io/"/>
-  <updated>2016-09-27T20:59:27+08:00</updated>
+  <updated>2016-10-17T11:16:16+08:00</updated>
   <id>http://leehaoo.github.io/</id>
   <author>
     <name><![CDATA[LeeHao]]></name>
@@ -18,9 +18,63 @@
     <link href="http://leehaoo.github.io/blog/2016/09/27/statement/"/>
     <updated>2016-09-27T00:10:23+08:00</updated>
     <id>http://leehaoo.github.io/blog/2016/09/27/statement</id>
-    <content type="html"><![CDATA[<h2>博客环境测试</h2>
+    <content type="html"><![CDATA[<h3>博客环境测试</h3>
 
-<p>大家好，我是 Leon.</p>
+<p>博客环境测试博客环境测试博客环境测试博客环境测试博客环境测试博客环境测试博客环境测试博客环境测试博客环境测试博客环境测试博客环境测试博客环境测</p>
+
+<pre><code class="">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head lang="en"&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    代码测试
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+<h3>博客环境测试</h3>
+
+<p>博客环境测试博客环境测试博客环境测试博客<br/>
+环境测试博客环境测试博客环境测试博客环境测<br/>
+试博客环境测试博客环境测试博客环境测试博客<br/>
+环境测试博客环境</p>
+
+<p><code>高亮</code></p>
+
+<p><strong>加粗</strong></p>
+
+<h5>标题</h5>
+
+<ul>
+<li>层级</li>
+<li>1
+
+<ul>
+<li>2
+
+<ul>
+<li>3</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<p>正文</p>
+
+<hr />
+
+<script>
+    var body = document.getElementsByTagName("body")[0];
+    body.style.fontSize="15px";
+    body.style.fontFamily="微软雅黑";
+</script>
+
+
+
 ]]></content>
   </entry>
   
